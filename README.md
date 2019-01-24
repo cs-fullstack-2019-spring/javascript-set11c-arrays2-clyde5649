@@ -40,6 +40,8 @@ unshift()	Adds new elements to the beginning of an array, and returns the new le
 ```
 
 #### Exercise 31
+## KEY: No code submission found
+
 Create an array with 5 numbers. Ask the user for an index. Alert the user of the value of the array's index.
 
 #### Exercise 32
